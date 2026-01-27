@@ -1,0 +1,21 @@
+{
+  "name": "golang-skills",
+  "description": "Comprehensive Go skills for AI coding assistants. 16 modular skills covering style, naming, error handling, testing, documentation, concurrency, context, interfaces, data structures, control flow, performance, linting, code review, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cxuu"
+  },
+  "repository": "https://github.com/cxuu/golang-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "go",
+    "golang",
+    "best-practices",
+    "coding-standards",
+    "effective-go",
+    "google-style-guide",
+    "uber-style-guide",
+    "code-review-comments",
+    "idiomatic-go"
+  ]
+}
